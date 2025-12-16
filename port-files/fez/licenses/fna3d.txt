@@ -1,0 +1,4 @@
+FNA3D - 3D Graphics Library for FNA
+Copyright (c) 2020-2024 Ethan Lee
+zlib License
+https://github.com/FNA-XNA/FNA3D

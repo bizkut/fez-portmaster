@@ -1,0 +1,4 @@
+gl4es - OpenGL ES 2.0 translation library
+Copyright (c) 2016-2024 ptitSeb
+MIT License
+https://github.com/ptitSeb/gl4es

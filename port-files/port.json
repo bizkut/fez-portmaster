@@ -1,0 +1,29 @@
+{
+    "version": 2,
+    "name": "fez.zip",
+    "items": [
+        "Fez.sh",
+        "fez"
+    ],
+    "items_opt": null,
+    "attr": {
+        "title": "FEZ",
+        "desc": "A mind-bending puzzle platformer where you rotate the world between 2D and 3D perspectives",
+        "inst": "Copy FEZ.exe and Content folder from your GOG FEZ installation to the fez/ directory",
+        "genres": [
+            "puzzle",
+            "platformer",
+            "indie"
+        ],
+        "porter": [
+            "Antigravity"
+        ],
+        "image": {},
+        "rtr": false,
+        "runtime": "mono-6.12.0.122",
+        "reqs": [],
+        "arch": [
+            "aarch64"
+        ]
+    }
+}

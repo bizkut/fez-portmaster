@@ -1,0 +1,4 @@
+FNA - Reimplementation of the Microsoft XNA Framework
+Copyright (c) 2009-2024 Ethan Lee, FNA Team
+Microsoft Public License (Ms-PL)
+https://github.com/FNA-XNA/FNA

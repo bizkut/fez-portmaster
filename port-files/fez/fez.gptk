@@ -1,0 +1,22 @@
+# FEZ Controller Mapping
+
+up = up
+down = down
+left = left
+right = right
+
+a = space
+b = k
+x = e
+y = tab
+
+l1 = q
+r1 = e
+
+start = enter
+back = esc
+
+left_analog_up = up
+left_analog_down = down
+left_analog_left = left
+left_analog_right = right

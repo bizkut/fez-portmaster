@@ -1,0 +1,41 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: FezEngine.ContentPaths
+// Assembly: FezEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: BF0F94A8-07FE-4074-8978-FD18CC5EF662
+// Assembly location: E:\GOG Games\Fez\FezEngine.dll
+
+#nullable disable
+namespace FezEngine;
+
+public static class ContentPaths
+{
+  public const string ContentRoot = "Content";
+  public const string CharacterAnimations = "Character Animations";
+  public const string Effects = "Effects";
+  public const string Fonts = "Fonts";
+  public const string Levels = "Levels";
+  public const string OtherTextures = "Other Textures";
+  public const string Music = "Music";
+  public const string Skies = "Skies";
+  public const string TrileSets = "Trile Sets";
+  public const string ArtObjects = "Art Objects";
+  public const string BackgroundPlanes = "Background Planes";
+  public const string Groups = "Groups";
+  public const string Resources = "Resources";
+  public const string Sounds = "Sounds";
+  public const string CollectSounds = "Sounds/Collects";
+  public const string GomezSounds = "Sounds/Gomez";
+  public const string GraveyardSounds = "Sounds/Graveyard";
+  public const string LavaSounds = "Sounds/Lava";
+  public const string IndustrialSounds = "Sounds/Industrial";
+  public const string MiscActorSounds = "Sounds/MiscActors";
+  public const string NatureSounds = "Sounds/Nature";
+  public const string NpcSounds = "Sounds/Npc";
+  public const string SewerSounds = "Sounds/Sewer";
+  public const string UiSounds = "Sounds/Ui";
+  public const string WildlifeSounds = "Sounds/Wildlife";
+  public const string ZuSounds = "Sounds/Zu";
+  public const string IntroSounds = "Sounds/Intro";
+  public const string DotSounds = "Sounds/Dot";
+  public const string GomezAnimations = "Character Animations/Gomez";
+}

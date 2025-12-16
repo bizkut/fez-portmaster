@@ -1,0 +1,30 @@
+# Build artifacts
+build/
+*.o
+*.so
+*.so.*
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Mono/C#
+bin/
+obj/
+*.dll
+!port-files/fez/*.dll
+!src/lib-prebuilt/*.dll
+!src/Libs/**/lib/*.dll
+
+# Game files (user must provide)
+port-files/fez/FEZ.exe
+port-files/fez/Content/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Packages
+*.zip

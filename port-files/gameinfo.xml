@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Fez.sh</path>
+    <name>FEZ</name>
+    <desc>A mind-bending puzzle platformer where you rotate the world between 2D and 3D perspectives. Play as Gomez, a 2D creature who discovers the existence of a third dimension.</desc>
+    <releasedate>20120413T000000</releasedate>
+    <developer>Polytron Corporation</developer>
+    <publisher>Polytron Corporation</publisher>
+    <genre>Puzzle Platformer</genre>
+    <image>./fez/cover.png</image>
+  </game>
+</gameList>

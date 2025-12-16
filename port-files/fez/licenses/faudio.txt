@@ -1,0 +1,4 @@
+FAudio - Accuracy-focused XAudio reimplementation
+Copyright (c) 2018-2024 Ethan Lee
+zlib License
+https://github.com/FNA-XNA/FAudio
