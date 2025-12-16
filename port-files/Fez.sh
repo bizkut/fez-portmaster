@@ -44,6 +44,7 @@ export SDL_GAMECONTROLLERCONFIG="$sdl_controllerconfig"
 
 # Mono path for assemblies
 export MONO_PATH="$GAMEDIR"
+export MONO_IOMAP=all
 
 # Use GL4ES
 if [ -f "${controlfolder}/libgl_${CFW_NAME}.txt" ]; then

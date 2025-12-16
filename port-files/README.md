@@ -2,11 +2,11 @@
 
 ## Installation
 
-1. **Download** this port via PortMaster
-2. **Copy game files** from your GOG FEZ installation:
-   - `FEZ.exe` → `ports/fez/`
-   - `Content/` folder → `ports/fez/Content/`
-3. **Launch** via PortMaster
+1. **Download** `fez.zip` and extract it to your `ports/` folder.
+2. **Copy game files** from your GOG FEZ installation into the `ports/fez/` folder (where `FNA.dll` is located):
+   - `FEZ.exe`
+   - `Content/` folder
+3. **Launch** FEZ via PortMaster.
 
 ## Required Files from GOG
 
